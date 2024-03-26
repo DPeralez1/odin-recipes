@@ -1,0 +1,25 @@
+h1 {
+    background-color: burlywood;
+    text-align: center;
+    color:white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+.Ingredients{
+    border-color: blueviolet;
+    border-style: solid;
+}
+
+ol {
+    border-style: groove;
+    background-color: orange;
+}
+
+p {
+    font-style: italic;
+}
